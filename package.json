@@ -1,6 +1,6 @@
 {
     "name": "dependecy",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Similar to the concept of Promise with dependencies",
     "author": "André Ferreira <andrehrf@gmail.com>",
     "main": "index.js",

@@ -1,7 +1,7 @@
 # dependecy
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/andrehrf/organized/master/LICENSE)
-[![npm version](https://badge.fury.io/js/organized.svg)](https://badge.fury.io/js/organized)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/andrehrf/dependecy/master/LICENSE)
+[![npm version](https://badge.fury.io/js/dependecy.svg)](https://badge.fury.io/js/dependecy)
 
 Similar to the concept of Promise with dependencies
 
